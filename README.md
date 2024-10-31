@@ -13,3 +13,7 @@ Text field to input text.
 
 Generated qrcode you can scan.
 ![Screenshot 2024-10-31 110202](https://github.com/user-attachments/assets/550609eb-aac9-4921-9d9a-64b78d0c23b7)
+
+
+scan and retrieve info of a record
+![Screenshot 2024-10-31 111711](https://github.com/user-attachments/assets/0df12fc1-438c-46e4-9e98-4aa270f9940b)
