@@ -6,3 +6,10 @@ Install-Package System.Drawing.Common
 Install-Package ZXing.Net
 
 
+
+Text field to input text.
+![Screenshot 2024-10-31 110223](https://github.com/user-attachments/assets/6fae812a-c6e1-48f3-b8b1-cea5f01c3fe4)
+
+
+Generated qrcode you can scan.
+![Screenshot 2024-10-31 110202](https://github.com/user-attachments/assets/550609eb-aac9-4921-9d9a-64b78d0c23b7)
