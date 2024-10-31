@@ -1,0 +1,13 @@
+﻿@model IEnumerable<QRCodeModel>
+
+<h2>QR Code History</h2>
+<ul>
+    @foreach (var qr in Model)
+    {
+        <li>
+            <img src="@qr.ImageUrl" alt="QR Code" width="100" />
+            <p>@qr.Data</p>
+            <p>@qr.CreatedAt</p>
+        </li>
+    }
+</ul>
